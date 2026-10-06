@@ -1,28 +1,55 @@
 <h1 align="center">Hi 👋, I'm Mrudula Lade</h1>
-<h3 align="center">Full Stack Java Developer | Software Engineer @ Axis Bank</h3>
+<h3 align="center">Full Stack Java Developer | Software Engineer @ Axis Bank 🏦</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+React+%7C+Microservices;Core+Banking+Systems+Engineer;Backend+is+my+favorite+part+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+React+%7C+Microservices;Core+Banking+Systems+Engineer;2.5%2B+Years+Building+Production+Software;Backend+is+my+favorite+part+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to opportunities" />
+  <img src="https://img.shields.io/badge/Experience-2.5%2B%20Years-blue?style=for-the-badge&logo=briefcase&logoColor=white" alt="Experience" />
+  <img src="https://img.shields.io/badge/Based%20in-Mumbai,%20India-orange?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+</p>
+
+<p align="center">
+  <a href="mailto:mrudumrudu123@gmail.com">
+    <img src="https://img.shields.io/badge/Hire%20Me-Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire me" />
+  </a>
+  <a href="https://www.linkedin.com/in/lademrudula/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://github.com/lademruduladeveloper">
-    <img src="https://komarev.com/ghpvc/?username=lademruduladeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=lademruduladeveloper&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
   </a>
 </p>
 
 ---
 
+## 🎯 What I Bring to Your Team
+
+> **Full Stack Java Developer** with **2.5+ years** shipping reliable software in a **mission-critical banking environment**. I design and build **Spring Boot + React** applications end-to-end, thrive on **backend architecture**, and have a proven track record of **on-time delivery with zero pendency**.
+
+<table>
+  <tr>
+    <td align="center">🏦<br/><b>Banking-Grade</b><br/>Core Banking Systems at Axis Bank</td>
+    <td align="center">⚙️<br/><b>Full Stack</b><br/>Spring Boot · React · SQL · MongoDB</td>
+    <td align="center">📊<br/><b>Reliability</b><br/>Server monitoring & health dashboards</td>
+    <td align="center">🏆<br/><b>Recognized</b><br/>Tech Star Award & ANCHORS 2.0</td>
+  </tr>
+</table>
+
+---
+
 ## 👩‍💻 About Me
 
-- 🎓 Graduate of **RGUKT University** with **Distinction (CGPA 9.0)** in Computer Science and Engineering.
-- 💼 Currently a **Software Engineer at Axis Bank**, working on **Core Banking Systems**.
-- 🔭 **2.5+ years** of professional experience in **full-stack web development**.
-- 🌱 Building Spring Boot web apps to monitor Linux servers — transaction declines, health checks & DB monitoring.
-- 💚 I love **backend development** the most, and full-stack has been my passion since my B.Tech days.
-- 🏆 Recipient of the **Tech Star Award (2024)** and **ANCHORS 2.0 Certificate of Appreciation** for achieving *Zero Pendency*.
-- 🎤 I love **singing** — it's my happy place.
-- 📫 Reach me at **mrudumrudu123@gmail.com**
+- 🎓 **Distinction graduate (CGPA 9.0)** in Computer Science & Engineering from **RGUKT University**.
+- 💼 **Software Engineer at Axis Bank**, building and maintaining **Core Banking System** applications.
+- 🔭 **2.5+ years** of hands-on, production experience across **full-stack web development**.
+- 🌱 I build **Spring Boot** dashboards that help teams monitor Linux servers — transaction declines, health checks & DB monitoring — reducing manual effort and response time.
+- 💚 **Backend is my strength**, and full-stack has been my passion since my B.Tech days.
+- 🏆 Honored with the **Tech Star Award (2024)** and **ANCHORS 2.0 Certificate of Appreciation** for a strong commitment to *Zero Pendency* and timely delivery.
+- 🗣️ Fluent in **English** (professional) and **Hindi** (native).
+- 📫 Let's connect: **mrudumrudu123@gmail.com**
 
 ---
 
@@ -59,12 +86,24 @@
 
 ## 💼 Work Experience
 
-| Role | Company | Duration |
-|------|---------|----------|
-| 💻 Software Engineer | **Axis Bank**, Mumbai | Mar 2023 – Present |
-| 🖥️ Software Engineer | **Inventiz**, Vijayawada | Jul 2022 – Dec 2023 |
-| 📜 Full Stack Dev Certification | **Manipal University** (Online) | Oct 2022 – Jan 2023 |
-| 🎓 Long Term Internship | **Inventiz**, Vijayawada | Aug 2021 – Jul 2022 |
+### 💻 Software Engineer — Axis Bank, Mumbai `Mar 2023 – Present`
+- Build **Spring Boot** web applications to monitor Linux servers for **transaction declines, health checks & DB monitoring**, giving teams real-time visibility.
+- Deliver **production-level script enhancements** across channels based on evolving business requirements.
+- Collaborate within a cross-functional team on the **Core Banking System**.
+- `Java · Python · Spring Boot · React (Tailwind) · JavaScript · Linux · Shell Scripting · Git · MongoDB · SQL`
+
+### 🖥️ Software Engineer — Inventiz, Vijayawada `Jul 2022 – Dec 2023`
+- Developed an interactive, high-performance **Kendo-based web tool** to forecast future sales.
+- Worked on **retail data analytics** with solid hands-on experience in **.NET Core**.
+- `.NET · C# · jQuery · Kendo Framework · JavaScript · Git`
+
+### 📜 Full Stack Development Certification — Manipal University (Online) `Oct 2022 – Jan 2023`
+- Built an **employee document portal** where staff securely access salary slips, joining/appointment letters and org documents based on their role.
+- `Java · React (Tailwind) · JavaScript · MongoDB · SQL · Git`
+
+### 🎓 Long Term Internship — Inventiz, Vijayawada `Aug 2021 – Jul 2022`
+- Contributed to a **sales-forecasting web tool** using the Kendo framework and retail data analytics.
+- `.NET · C# · jQuery · Kendo Framework · JavaScript · Git`
 
 ---
 
@@ -115,6 +154,13 @@
   <a href="https://www.linkedin.com/in/lademrudula/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <b>📩 Looking for a dedicated Full Stack / Java Developer?</b><br/>
+  I'm open to new opportunities — reach me at <a href="mailto:mrudumrudu123@gmail.com">mrudumrudu123@gmail.com</a>
 </p>
 
 ---
