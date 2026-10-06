@@ -8,7 +8,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to opportunities" />
   <img src="https://img.shields.io/badge/Experience-4%2B%20Years-blue?style=for-the-badge&logo=briefcase&logoColor=white" alt="Experience" />
-  <img src="https://img.shields.io/badge/Based%20in-Mumbai,%20India-orange?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Based%20in-Bangalore,%20India-orange?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Work%20Mode-Remote%20(WFH)-success?style=for-the-badge&logo=homeassistant&logoColor=white" alt="Remote WFH" />
 </p>
 
 <p align="center">
@@ -86,7 +87,7 @@
 
 ## 💼 Work Experience
 
-### 💻 Software Engineer — Axis Bank, Mumbai `Mar 2023 – Present`
+### 💻 Software Engineer — Axis Bank `Mar 2023 – Present` · Bangalore, India (Remote / WFH)
 - Build **Spring Boot** web applications to monitor Linux servers for **transaction declines, health checks & DB monitoring**, giving teams real-time visibility.
 - Deliver **production-level script enhancements** across channels based on evolving business requirements.
 - Collaborate within a cross-functional team on the **Core Banking System**.
