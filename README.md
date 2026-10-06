@@ -2,12 +2,12 @@
 <h3 align="center">Full Stack Java Developer | Software Engineer @ Axis Bank 🏦</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+React+%7C+Microservices;Core+Banking+Systems+Engineer;2.5%2B+Years+Building+Production+Software;Backend+is+my+favorite+part+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+React+%7C+Microservices;Core+Banking+Systems+Engineer;4%2B+Years+Building+Production+Software;Backend+is+my+favorite+part+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to opportunities" />
-  <img src="https://img.shields.io/badge/Experience-2.5%2B%20Years-blue?style=for-the-badge&logo=briefcase&logoColor=white" alt="Experience" />
+  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-blue?style=for-the-badge&logo=briefcase&logoColor=white" alt="Experience" />
   <img src="https://img.shields.io/badge/Based%20in-Mumbai,%20India-orange?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
@@ -27,7 +27,7 @@
 
 ## 🎯 What I Bring to Your Team
 
-> **Full Stack Java Developer** with **2.5+ years** shipping reliable software in a **mission-critical banking environment**. I design and build **Spring Boot + React** applications end-to-end, thrive on **backend architecture**, and have a proven track record of **on-time delivery with zero pendency**.
+> **Full Stack Java Developer** with **4+ years** shipping reliable software in a **mission-critical banking environment**. I design and build **Spring Boot + React** applications end-to-end, thrive on **backend architecture**, and have a proven track record of **on-time delivery with zero pendency**.
 
 <table>
   <tr>
@@ -44,7 +44,7 @@
 
 - 🎓 **Distinction graduate (CGPA 9.0)** in Computer Science & Engineering from **RGUKT University**.
 - 💼 **Software Engineer at Axis Bank**, building and maintaining **Core Banking System** applications.
-- 🔭 **2.5+ years** of hands-on, production experience across **full-stack web development**.
+- 🔭 **4+ years** of hands-on, production experience across **full-stack web development**.
 - 🌱 I build **Spring Boot** dashboards that help teams monitor Linux servers — transaction declines, health checks & DB monitoring — reducing manual effort and response time.
 - 💚 **Backend is my strength**, and full-stack has been my passion since my B.Tech days.
 - 🏆 Honored with the **Tech Star Award (2024)** and **ANCHORS 2.0 Certificate of Appreciation** for a strong commitment to *Zero Pendency* and timely delivery.
