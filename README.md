@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:mrudumrudu123@gmail.com">
+  <a href="mailto:lademrudula123@gmail.com">
     <img src="https://img.shields.io/badge/Hire%20Me-Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire me" />
   </a>
   <a href="https://www.linkedin.com/in/lademrudula/">
@@ -50,7 +50,7 @@
 - 💚 **Backend is my strength**, and full-stack has been my passion since my B.Tech days.
 - 🏆 Honored with the **Tech Star Award (2024)** and **ANCHORS 2.0 Certificate of Appreciation** for a strong commitment to *Zero Pendency* and timely delivery.
 - 🗣️ Fluent in **English** (professional) and **Hindi** (native).
-- 📫 Let's connect: **mrudumrudu123@gmail.com**
+- 📫 Let's connect: **lademrudula123@gmail.com**
 
 ---
 
@@ -146,7 +146,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:mrudumrudu123@gmail.com">
+  <a href="mailto:lademrudula123@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/lademruduladeveloper">
@@ -161,7 +161,7 @@
 
 <p align="center">
   <b>📩 Looking for a dedicated Full Stack / Java Developer?</b><br/>
-  I'm open to new opportunities — reach me at <a href="mailto:mrudumrudu123@gmail.com">mrudumrudu123@gmail.com</a>
+  I'm open to new opportunities — reach me at <a href="mailto:lademrudula123@gmail.com">lademrudula123@gmail.com</a>
 </p>
 
 ---
